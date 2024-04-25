@@ -1,4 +1,4 @@
-Multiplayer Poker Game developed using C# for both backend and frontend, with multiple features:
+Multiplayer Poker Game developed using C#, with multiple features:
 - Users and accounts
 - Tables (running on threads)
 - Shop, invenrtory, items
