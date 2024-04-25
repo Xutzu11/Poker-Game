@@ -3,4 +3,5 @@ Multiplayer Poker Game developed using C# for both backend and frontend, with mu
 - Tables (running on threads)
 - Shop, invenrtory, items
 - Chat, requests, friends, levels, challenges
+
 All game logics including hand ranking, card dealing and betting is implemented.
